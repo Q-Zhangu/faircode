@@ -1,3 +1,6 @@
+Fill in the fields to see the markdown badge snippet.
+
+Fill in the fields to see the rST badge snippet.
 # faircode
 
 Version 0.1.0
@@ -41,7 +44,3 @@ This project is licensed under the terms of the [MIT License](/LICENSE.md)
 Please [cite this project as described here](/CITATION.md).
 
 
-
-Fill in the fields to see the markdown badge snippet.
-
-Fill in the fields to see the rST badge snippet.
